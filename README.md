@@ -1,12 +1,12 @@
 # Introducing Evolvix
-Evolvix-Engine is an AI-driven game development platform, that automates and optimizes coding tasks to streamline the development process of your Source / Vortex Engine-based Game
+Welcome to Evolvix-Engine, an innovative AI-driven game development platform designed to simplify and enhance the development of games using Source or Vortex Engines. Evolvix-Engine automates and optimizes coding tasks, making game development more accessible and efficient.
 
-## Why
-I created this project so users who have not learn't C++ or C can have a chance at game development
+## Why Evolvix?
+Evolvix was created to provide an opportunity for those who haven't mastered C++ or C to dive into game development. Our platform empowers users with intuitive tools and automation, eliminating the need for extensive programming knowledge.
 
 ## Features
-* Restored Physics Gun (Not the one from JBMod)
-* Cascade Shadow Mapping (Singleplayer Only)
+* Restored Physics Gun
+* Cascade Shadow Mapping
 * Native Linux Support
 * Android Support (Coming Soon)
-* Lightweight (1 - 8 GiB on average)
+* Lightweight (1 - 8 GiB)
