@@ -9,3 +9,4 @@ I created this project so users who have not learn't C++ or C can have a chance 
 * Cascade Shadow Mapping (Singleplayer Only)
 * Native Linux Support
 * Android Support (Coming Soon)
+* Lightweight (1 - 8 GiB on average)
