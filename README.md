@@ -11,3 +11,9 @@ Evolvix was created to provide an opportunity for those who haven't mastered C++
 * Android Support (Coming Soon)
 * Lightweight (1 - 8 GiB)
 * Fantastic Graphics
+
+## Required Dependencies
+* VSCODE 2022
+* `PyQt5` for the browser we developed to fetch files
+* `SpeechRecognition` for automated voice control
+* `Python`
