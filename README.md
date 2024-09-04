@@ -13,7 +13,10 @@ Evolvix was created to provide an opportunity for those who haven't mastered C++
 * Fantastic Graphics
 
 ## Required Dependencies
-* VSCODE 2022
+* VSCODE 2022 Or VSCODE 2013
 * `PyQt5` for the browser we developed to fetch files
 * `SpeechRecognition` for automated voice control
 * `Python`
+* `git`
+* Windows 8.1 (Minumum)
+* 4 GB of RAM
