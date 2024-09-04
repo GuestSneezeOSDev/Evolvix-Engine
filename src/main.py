@@ -14,7 +14,7 @@ def request_directory():
 
 def clone_sdk_repo(target_dir):
     repo_url = "https://github.com/ValveSoftware/source-sdk-2013.git"
-    temp_dir = "C:\source-sdk-temp"
+    temp_dir = "C:\evolvix-temp"
 
     if os.path.exists(temp_dir):
         print(f"Temporary directory '{temp_dir}' already exists. Removing it.")
