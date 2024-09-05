@@ -13,14 +13,14 @@ def request_directory():
     return dir_name
 
 def clone_sdk_repo(target_dir):
-    repo_url = "https://github.com/ValveSoftware/source-sdk-2013.git"
+    repo_url = "https://github.com/Vortex-Engine/vortex-engine.git"  # Updated repo URL
     temp_dir = "C:\\evolvix-temp"
 
     if os.path.exists(temp_dir):
         print(f"Temporary directory '{temp_dir}' already exists. Removing it.")
         shutil.rmtree(temp_dir)
     
-    print(f"Cloning Source SDK 2013 repository into '{temp_dir}'...")
+    print(f"Cloning Vortex Engine repository into '{temp_dir}'...")
     subprocess.run(["git", "clone", repo_url, temp_dir], check=True)
     
     os.chdir(temp_dir)
