@@ -19,4 +19,4 @@ Evolvix was created to provide an opportunity for those who haven't mastered C++
 * `Python`
 * `git`
 * Windows 8.1 (Minumum)
-* 4 GB of RAM
+* 12 GB of RAM
