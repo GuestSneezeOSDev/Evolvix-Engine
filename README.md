@@ -9,7 +9,7 @@ Evolvix was created to provide an opportunity for those who haven't mastered C++
 * Cascade Shadow Mapping
 * Native Linux Support
 * Android Support (Coming Soon)
-* Lightweight (1 - 8 GiB)
+* Lightweight (4 - 20 GiB)
 * Fantastic Graphics
 
 ## Required Dependencies
