@@ -13,7 +13,7 @@ def request_directory():
     return dir_name
 
 def clone_sdk_repo(target_dir):
-    repo_url = "https://github.com/Vortex-Engine/vortex-engine.git"  # Updated repo URL to use Vortex instead
+    repo_url = "https://github.com/Vortex-Reborn/vortex-engine.git"
     temp_dir = "C:\\evolvix-temp"
 
     if os.path.exists(temp_dir):
